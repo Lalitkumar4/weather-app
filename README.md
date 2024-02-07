@@ -12,7 +12,7 @@ export default API_KEY;
 ```
 
 <div align="center">
-  <img src="https://github.com/Lalitkumar4/weather-app/assets/64465383/94dca289-1a49-4658-9e44-4fd24c1fdab6" width="90%" height="700"/>
+  <img src="https://github.com/Lalitkumar4/weather-app/assets/64465383/94dca289-1a49-4658-9e44-4fd24c1fdab6"/>
 </div>
 
 
